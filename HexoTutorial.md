@@ -17,7 +17,6 @@ https://hexo.io/docs/writing.html
 
 - Node.js 和 hexo-cli 路径：`C:\Users\<用户名>\.workbuddy\binaries\node\versions\20.18.0`（当前电脑的实际路径已记录在 config.bat 中）
 - 已添加到用户 PATH 环境变量，直接在 cmd 中使用 `hexo` 命令即可
-- 博客目录：`F:\DF\Fun\LimkoBlog\my-blog`
 - 启动服务器：双击 `start-blog.bat`（端口 4001）
 - 关闭服务器：双击 `stop-blog.bat`
 
