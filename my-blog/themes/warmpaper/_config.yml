@@ -17,11 +17,12 @@ toc:
 
 # Profile (shown on homepage above post list)
 profile:
-  avatar: /images/logo.svg
-  description: ""
+  #avatar: /images/logo.svg
+  avatar: /images/icon.jpg
+  description: "你说人生艳丽我没有异议，你说人生忧郁我不言语。"
   links:
     - name: GitHub
-      url: https://github.com/finch-xu/
+      url: https://github.com/lzjyim366
       icon: github
     # - name: Email
     #   url: mailto:your@email.com

@@ -3,6 +3,7 @@
 Thumbs.db
 
 # Hexo
+my-blog/source/_posts/hello-world.md
 my-blog/db.json
 my-blog/*.log
 my-blog/node_modules/
