@@ -14,6 +14,7 @@ my-blog/_multiconfig.yml
 # Obsidian
 my-blog/source/_posts/.obsidian/
 my-blog/source/.obsidian/
+my-blog/.obsidian/
 
 # Claude
 start-claude-internal.bat
