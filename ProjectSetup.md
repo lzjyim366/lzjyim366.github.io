@@ -1,4 +1,16 @@
 # 新电脑环境搭建
+
+## 快速安装（推荐）
+
+1. 安装 Node.js（见下方第 1 步）
+2. 安装 Hexo CLI（见下方第 2 步）
+3. 克隆仓库（见下方第 3 步）
+4. 双击 `setup.bat` → 自动检测 Node.js 路径并生成 `config.bat`
+5. 双击 `start-blog.bat` 验证是否正常
+
+---
+
+## 手动安装步骤（备用）
 主题：git@github.com:finch-xu/hexo-theme-warmpaper.git 
 hexo安装：
 ## 1. 安装 Node.js
