@@ -27,12 +27,12 @@ profile:
     # - name: Email
     #   url: mailto:your@email.com
     #   icon: email
-    - name: pidan.dev
-      url: https://pidan.dev
+    - name: Zhihu
+      url: https://www.zhihu.com/people/lu-dao-hong-xie
       icon: website
-    - name: 雨云VPS
-      url: https://www.rainyun.com/ODA1MzUy_?s=pidan.dev
-      icon: website
+    #- name: 雨云VPS
+    #  url: https://www.rainyun.com/ODA1MzUy_?s=pidan.dev
+    #  icon: website
     # - name: Twitter
     #   url: https://twitter.com/yourname
     #   icon: twitter
